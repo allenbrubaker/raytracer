@@ -6,7 +6,9 @@ Ray Tracer
 ![ScreenShot](glassballs.png)
 ![House](House/house.gif)
 
-**Features**
+
+Features
+----------
 
 Ray tracing with spheres, triangles, box antialiasing filter, texture mapping, shadows, reflection of arbitrary depth, lighting that assumes spherical or triangular shapes, and arbitrary view points.
 
