@@ -1,0 +1,38 @@
+COMP 597
+Allen Brubaker
+ajb5377@psu.edu
+5/5/2009
+Problem 4
+
+FEATURES IMPLEMENTED
+1.  textured triangles, spheres
+2.  cylinder
+3.  specular reflectivity
+4. lighting with shadows.
+5.  all of the above.
+
+BONUS FEATURES IMPLEMENTED
+1.  Create a visually attractive scene (took me about 12 hours today to make it!!! ugh, but it was worth it.)
+2.  (Later today will submit multiple images for an animation and will send email when finished this part).
+
+
+*Note*:  Textures needed are: 
+StressedMetal, CrushedMarble, GreenGarnet, PurpleDiamondTiles
+Download them from http://cs.hbg.psu.edu/~ajb5377/.  
+
+
+Simply plop the above files in the directory along side the program 4 files (prog4.cpp), and
+enter the below commands.
+
+
+Compile the program by using the following :
+
+g++ -ansi -pedantic prog4.cpp
+
+Then type in:  
+
+./a.out 400 400 4 house_scene.txt image.ppm
+
+The URL for my best image is below:
+http://verythaiguy.blogspot.com/
+

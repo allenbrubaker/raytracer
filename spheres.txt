@@ -1,0 +1,3 @@
+-200 100 600  100 diffuse 0 1 0 
+110 165 400  165 texture PurpleDiamondTiles.ppm
+-75 60 200 60 diffuse 0 0 1 

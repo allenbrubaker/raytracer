@@ -1,0 +1,12 @@
+triangles floor.txt 
+spheres spheres.txt
+spheres lights.txt
+background 0 0 0
+lookfrom 0 273 -780
+lookat 0 273 -779
+vfov 38.5
+vup 0 1 0
+ambient .2 .2 .2
+pixelsamples 2
+lightsamples 2
+depth 3

@@ -1,0 +1,11 @@
+triangles floor.txt none
+triangles walls.txt none
+triangles ceiling.txt none
+triangles boxes.txt none
+triangles light.txt none
+ambient 0 0 0
+background 0 0 0
+lookfrom 278 273 -800
+lookat 278 273 -799
+vfov 38.5
+vup 0 1 0

@@ -1,0 +1,13 @@
+squares house.txt StressedMetal.ppm
+triangles roof.txt StressedMetal.ppm
+spheres treetop.txt none
+cylinders treetrunk.txt CrushedMarble.ppm
+squares grass.txt GreenGarnet.ppm
+squares lights.txt none
+spheres decor.txt PurpleDiamondTiles.ppm
+ambient .2 .2 .2
+background 0 0 0
+lookfrom -670 1170 -670
+lookat 500 0 500
+vfov 38.5
+vup 0 1 0
