@@ -1,24 +1,23 @@
 Ray Tracer
 ============
 
-**Generated Images from this ray tracer**
+**Generated Images from this Ray Tracer**
 
 ![ScreenShot](glassballs.png)
 ![House](House/house.gif)
 
 **Features**
 
-Features implemented are as follows:
-Ray-tracing with spheres, triangles, box filtering, texture mapping, shadows, reflection, lighting that assumes spherical or triangular shapes, and arbitrary view point.
+Ray tracing with spheres, triangles, box antialiasing filter, texture mapping, shadows, reflection of arbitrary depth, lighting that assumes spherical or triangular shapes, and arbitrary view points.
 
 Configuration
 -----------------
 
 **Command Format**
 
-ambient r g b   - Specifies ambient light of scene
-pixelsamples n  - n*n is the number of samples to trace thru each pixel.
-lightsamples n  - n*n is the number of samples to take of each light src.
+ambient r g b   - Specifies ambient light of the scene.
+pixelsamples n  - n*n is the number of samples to trace through each pixel.
+lightsamples n  - n*n is the number of samples to take of each light source.
 depth n         - n is the recursion depth for specular surfaces.
 
 **Spheres Format**
